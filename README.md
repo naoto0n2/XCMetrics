@@ -10,6 +10,8 @@ _XCMetrics is the easiest way to collect Xcode builds metrics and improve your d
 [![Docker image](https://img.shields.io/docker/pulls/spotify/xcmetrics.svg)](https://hub.docker.com/r/spotify/xcmetrics)
 [![Slack](https://slackin.spotify.com/badge.svg)](https://slackin.spotify.com)
 
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
+
 ## Overview
 
 - 📈 Keep your build times under control and monitor which targets are taking the longest to compile.
